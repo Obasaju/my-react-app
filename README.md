@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Static Website Deployment on AWS with Terraform
 
 This project demonstrates how to deploy a React static website to **Amazon S3**, with **CloudFront** as a CDN, all managed using **Terraform**.
@@ -139,3 +140,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# my-react-app
+>>>>>>> b5a4d4c4cd1ef7ed31ef514875e91040796ba2a3
